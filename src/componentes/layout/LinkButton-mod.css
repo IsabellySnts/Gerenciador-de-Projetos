@@ -1,0 +1,14 @@
+.button{
+    border: 1px solid pink;
+    border-radius: 0.2em;
+    color: #000;
+    padding: 0.5em  1em;
+    text-decoration: none;
+    transition: 0.5s
+}
+
+.button:hover{
+
+    background-color: pink;
+    text-transform: uppercase;
+}
